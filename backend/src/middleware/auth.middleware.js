@@ -1,3 +1,4 @@
+// middleware for auth purpose using jwt
 import jwt from "jsonwebtoken";
 import User from "../models/User.js";
 
