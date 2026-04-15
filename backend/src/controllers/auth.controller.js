@@ -1,3 +1,4 @@
+// all ther auth apis are here 
 import { upssertStreamUser } from "../lib/stream.js";
 import User from "../models/User.js";
 import jwt from "jsonwebtoken"
