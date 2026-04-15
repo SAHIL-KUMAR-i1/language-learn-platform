@@ -1,3 +1,4 @@
+// model for user collection
 import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
 
